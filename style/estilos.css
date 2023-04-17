@@ -1,4 +1,4 @@
-.divMenu{
+.DivMenu{
     background-color: rgb(7, 2, 99);
     position: fixed;
     top: 0px;
@@ -7,7 +7,7 @@
     height: 70px;
     color: azure;
 }
-.leftmenu{
+.Leftmenu{
     position: fixed;
     top: 0px;
     float: left;
@@ -17,22 +17,22 @@
      left: 0px;
      
 }
-.imagemleftM{
+.ImagemleftM{
    top: 0px;
    height: 70px;
 }
-.centermenu{  
+.Centermenu{  
     color: azure;
    font-size: 20px;
     left: 520px;
     font-family: Arial, Helvetica, sans-serif;
     position: fixed;
-    float: none;      
+    float:none ;      
     background-color: rgb(7, 2, 99);
     height: 70px;
     top: 0px;  
 }
-.rightmenu{
+.Rightmenu{
     background-color: rgb(2, 99, 50);
     height: 70px;
     top: 0px;
@@ -40,17 +40,32 @@
     right: 0px;
     position: fixed;
 }
-.imgrightM{
+.ImgrightM{
     top: 0px;
     height: 70px;  
 
  }
-.tabela1{   
+.Tabela1{  
+    border: 1px solid black;
+    border-collapse: collapse;
  font-family: Arial, Helvetica, sans-serif;
-    color: azure;
-    
+    color: rgb(1, 6, 6);
+    background-color: rgb(196, 241, 255);
     top: 100px;
     height: 300px;
     position: fixed;
     float: left;
+}
+.Holanda1{
+    top: 0px;
+    height: 10px;
+    width: 20px;
+}
+.tr1{
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-color: black;
 }
