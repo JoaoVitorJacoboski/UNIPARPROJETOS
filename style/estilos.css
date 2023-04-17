@@ -1,0 +1,56 @@
+.divMenu{
+    background-color: rgb(7, 2, 99);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 70px;
+    color: azure;
+}
+.leftmenu{
+    position: fixed;
+    top: 0px;
+    float: left;
+    background-color: rgb(7, 2, 99);
+     color: azure;
+     height: 50px;
+     left: 0px;
+     
+}
+.imagemleftM{
+   top: 0px;
+   height: 70px;
+}
+.centermenu{  
+    color: azure;
+   font-size: 20px;
+    left: 520px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    float: none;      
+    background-color: rgb(7, 2, 99);
+    height: 70px;
+    top: 0px;  
+}
+.rightmenu{
+    background-color: rgb(2, 99, 50);
+    height: 70px;
+    top: 0px;
+    float: right;
+    right: 0px;
+    position: fixed;
+}
+.imgrightM{
+    top: 0px;
+    height: 70px;  
+
+ }
+.tabela1{   
+ font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    
+    top: 100px;
+    height: 300px;
+    position: fixed;
+    float: left;
+}
