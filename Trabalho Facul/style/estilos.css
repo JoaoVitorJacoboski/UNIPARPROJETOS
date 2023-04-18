@@ -100,7 +100,7 @@
     border-color: black;
 }
 .Pontos{
-    background-color: aqua;
+    background-color: rgb(178, 216, 228);
     border-left-width: 1px;    
     border-bottom-width: 0px;
     border-right-width: 0px;
@@ -108,4 +108,20 @@
     border-color: black;
     border-style: solid;        
     
+}
+.Nomes1{
+    border-left-width: 1px;    
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-color: black;
+    border-style: solid;  
+}
+.Bandeiras1{
+    border-left-width: 1px;    
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-color: black;
+    border-style: solid; 
 }
