@@ -1,0 +1,111 @@
+.DivMenu{
+    background-color: rgb(7, 2, 99);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 70px;
+    color: azure;
+}
+.Leftmenu{
+    position: fixed;
+    top: 0px;
+    float: left;
+    background-color: rgb(7, 2, 99);
+     color: azure;
+     height: 50px;
+     left: 0px;
+     
+}
+.ImagemleftM{
+   top: 0px;
+   height: 70px;
+}
+.Centermenu{  
+    color: azure;
+   font-size: 20px;
+    left: 520px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    float:none ;      
+    background-color: rgb(7, 2, 99);
+    height: 70px;
+    top: 0px;  
+}
+.Rightmenu{
+    background-color: rgb(2, 99, 50);
+    height: 70px;
+    top: 0px;
+    float: right;
+    right: 0px;
+    position: fixed;
+}
+.ImgrightM{
+    top: 0px;
+    height: 70px;  
+
+ }
+.Tabela1{  
+    border: 1px solid black;
+    border-collapse: collapse;
+ font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 6, 6);
+    background-color: rgb(196, 241, 255);
+    top: 100px;
+    height: 300px;
+    position: fixed;
+    float: left;
+}
+.Holanda1{
+    top: 0px;
+    height: 10px;
+    width: 20px;
+}
+.Mexico1{
+    top: 0px;
+    height: 10px;
+    width: 20px;
+}
+.Espanha1{
+    top: 0px;
+    height: 10px;
+    width: 20px;
+}
+.Uk1{
+    top: 0px;
+    height: 10px;
+    width: 20px;   
+}
+.Canada1{
+    top: 0px;
+    height: 10px;
+    width: 20px;  
+}
+.Finland1{
+    top: 0px;
+    height: 10px;
+    width: 20px;    
+}
+.França{
+    top: 0px;
+    height: 10px;
+    width: 20px; 
+}
+.Tr1{
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-color: black;
+}
+.Pontos{
+    background-color: aqua;
+    border-left-width: 1px;    
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-color: black;
+    border-style: solid;        
+    
+}
