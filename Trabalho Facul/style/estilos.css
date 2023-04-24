@@ -177,9 +177,7 @@
     text-align: center;
 }
 .TituloTr1{   
-    border-radius: 10px; 
-    border-radius: 15% 15% 15% 15%;
-    background-color: rgb(74, 12, 218);
+    background-color: rgb(83, 156, 235);
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
 }
@@ -267,21 +265,64 @@ left: -560px;
     float: center;
     left: 560px;
 }
-.Divtabela{
+.time{
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+  }
+  .Imgtabela{
+    height: 50px;
+    width: 100px;
+    
+  }
+  .tit{
+    color: #999;
+  }
+  .pots{
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    background-color: #F7F7F7;
+    width: 35px;
+  }
+.DivTabelaResol1{
+    position: absolute;
+    float: center;
+    left: -500;
+    
+}  
+.Tabela5{
+    border: 1px;
+    border-color: black;
+}
+.TituloTr2{
+    background-color: rgb(253, 240, 221);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.DivTabelaResol3{
+    top: 400px;
+    position: absolute;
+    float: center;
+    left: 580px;
     
 }
-.Divtabela{
-    
+.DivTabelaResol4{
+    position: absolute;
+    float: center;
+    top: 1200px;
+    left: -500;
 }
-.Divtabela{
-    
+.Tabelafinal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
 }
-.Divtabela{
-    
-}
-.Divtabela{
-    
-}
-.Divtabela{
-    
+.ImgTabelaF{
+    height: 150px;
+    width: 300px;  
+    text-align: center;
 }
